@@ -6,18 +6,7 @@ Created on Tue Nov 26 12:36:34 2024
 """
 
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 13 20:00:51 2024
 
-@author: te19p781
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  9 15:01:40 2024
-
-@author: te19p781
-"""
 import os, glob, shutil
 from PIL import Image
 import cv2 as cv
